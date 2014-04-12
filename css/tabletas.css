@@ -1,0 +1,25 @@
+/* ESTO ES UN MEDIA QUERY*/
+@media screen and (max-width:1100px){
+#sociales, #suscribir {
+width: 48%; 
+}
+}
+
+@media screen and (max-width:750px){
+#sociales, #suscribir {
+text-align:center;
+width: 100%; 
+}
+}
+
+@media screen and (max-width:890px){
+#testimonio{
+font-size: 2em;
+}
+
+.testimonio{
+	text-aling:center;
+	width:100%;
+	}
+}
+                   
